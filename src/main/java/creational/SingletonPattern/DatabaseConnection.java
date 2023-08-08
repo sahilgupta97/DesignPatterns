@@ -1,4 +1,4 @@
-package SingletonPattern;
+package creational.SingletonPattern;
 
 public class DatabaseConnection {
     private static DatabaseConnection instance = null;

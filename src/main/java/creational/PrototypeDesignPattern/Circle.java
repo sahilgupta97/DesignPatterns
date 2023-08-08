@@ -1,4 +1,4 @@
-package PrototypeDesignPattern;
+package creational.PrototypeDesignPattern;
 
 public class Circle extends Shape {
     private int radius;

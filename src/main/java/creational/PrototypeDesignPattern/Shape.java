@@ -1,4 +1,4 @@
-package PrototypeDesignPattern;
+package creational.PrototypeDesignPattern;
 
 public abstract class Shape {
     private String color;

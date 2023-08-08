@@ -1,6 +1,4 @@
-package BuilderDesignPattern;
-
-import javax.naming.directory.InvalidAttributesException;
+package creational.BuilderDesignPattern;
 
 public class Employee {
     private String employeeId;
