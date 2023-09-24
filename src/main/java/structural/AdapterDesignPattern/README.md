@@ -1,5 +1,5 @@
 # Adapter Design Pattern
-It allows objects with incompatible interfaces to collaborate.Allows to convert 
+It allows objects with incompatible interfaces to collaborate. Allows to convert 
 one type of thing to another type of thing. Generally, whenever you have to 
 connect to 3rd party library, we do not connect to it directly as it violates the
 Dependency Inversion principle.
