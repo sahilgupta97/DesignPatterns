@@ -5,7 +5,7 @@ features. It adds one more method-level redirection to achieve the objective.
 
 Used when extending the classes grows in multiple dimensions. It follows the 
 principle of separating abstractions and implementations.
-Let's sat Shape is an abstract class and Square, Triangle etc are its concrete
+Let's say Shape is an abstract class and Square, Triangle etc are its concrete
 classes(N). Now if there is a use case of different colored(M colors) shapes then
 we would need to create N x M concrete classes which is not ideal as most of them
 would share same other properties and behaviours.
