@@ -13,4 +13,12 @@ multiple payment gateways then it would be better to create an interface with th
 methods which we want and implement them using above different gateways. This
 follows Dependency Inversion Principle and Open Closed Principle. 
 
+Example sample run of phonepe : 
+```
+Making payment via Kotak Bank
+Checking txn status done via Kotak Bank.
+Making payment via Yes Bank.
+Checking txn status done via Yes Bank.
+```
+
 
